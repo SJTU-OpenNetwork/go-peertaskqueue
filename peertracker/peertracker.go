@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	pq "github.com/ipfs/go-ipfs-pq"
-	"github.com/ipfs/go-peertaskqueue/peertask"
+	"github.com/SJTU-OpenNetwork/go-peertaskqueue/peertask"
 	peer "github.com/libp2p/go-libp2p-core/peer"
 )
 

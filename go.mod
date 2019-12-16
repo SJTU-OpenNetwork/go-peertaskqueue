@@ -1,4 +1,4 @@
-module github.com/ipfs/go-peertaskqueue
+module github.com/SJTU-OpenNetwork/go-peertaskqueue
 
 go 1.12
 
